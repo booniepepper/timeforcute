@@ -1,0 +1,1 @@
+[30-Jan-2009 02:42:00] PHP Fatal error:  Call to undefined function  get_header() in /home/tylo/public_html/tfc/wp-content/themes/neapolitan/index.php on line 1

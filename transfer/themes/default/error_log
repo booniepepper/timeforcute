@@ -1,0 +1,1 @@
+[30-Jan-2009 03:36:11] PHP Fatal error:  Call to undefined function  get_header() in /home/tylo/public_html/tfc/wp-content/themes/default/index.php on line 7
